@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction with Logistic Regression
+# Telco Customer Churn Prediction
 
 ## Overview
 
